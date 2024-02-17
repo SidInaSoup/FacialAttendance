@@ -1,10 +1,10 @@
 # Facial_Recognition_Attendance
 
-A django web app to keep track of your employess'/students' attendance using just a cctv camera.
+A Django web app to keep track of your employees'/students' attendance using just a CCTV camera.
 
 Features:
-- Connects to usb device
-- Connects to ip camera (CCTV camera hosted on a server)
+- Connects to USB device
+- Connects to IP camera (CCTV camera hosted on a server)
 - Requires only a single clear picture of your employee to track them
 - All details and pictures can be uploaded easily on the front end
 - Department wise management
